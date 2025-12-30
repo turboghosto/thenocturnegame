@@ -1,3 +1,5 @@
 # The Game
 It's really quite simple.  
-In order to find the bomb I have hidden in the server, you have to answer the following.
+The exact location of the bomb is hidden in this website!  
+All you have to do is find the correct directory.  
+github.com/turboghosto/thenocturnegame/__________  
