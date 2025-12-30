@@ -1,4 +1,4 @@
 # The Nocturne Game
-Hello, detectives.
-We meet again.
-Are you ready for another game?
+Hello, detectives.  
+We meet again.  
+Are you ready for another game?  
