@@ -2,4 +2,4 @@
 Hello, detectives.  
 We meet again.  
 Are you ready for another game?   
-[game](TheGame.md)
+[a relative link](TheGame.md)
