@@ -1,2 +1,2 @@
-# h1 The Nocturne Game
-## h2 Hello again, detectives.
+# The Nocturne Game
+## Hello again, detectives.
