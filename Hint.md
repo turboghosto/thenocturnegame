@@ -1,10 +1,4 @@
 # SECRET HINT
 Ah, how clever you are detective!  
 I see you've found one of my secret HINTS.  
-  
-Do you know what a **Digital Root** is?  
-Simply add up the individual digits of a number, repeating this process until we get a one-digit result.  
 
-For example, the **Digital Root** of the number 12,345 is 1 + 2 + 3 + 4 + 5 = 15 = 1 + 5 = 6  
-  
-Perhaps there is a number that you could apply the **Digital Root** to?
